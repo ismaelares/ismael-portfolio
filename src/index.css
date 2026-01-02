@@ -1,5 +1,8 @@
 @import "tailwindcss";
 
+.round {
+  height: 48px;
+}
 @theme {
   --color-border: hsl(var(--border));
   --color-background: hsl(var(--background));
